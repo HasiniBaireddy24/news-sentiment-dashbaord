@@ -52,7 +52,6 @@ The dashboard presents the results using visual analytics so users can quickly u
 
 ### 1. Clone the repository
 git clone https://github.com/yourusername/news-sentiment-dashboard.git
-go into the project folder : cd news-sentiment-dashboard
 
 
 ### 2. Install dependencies
